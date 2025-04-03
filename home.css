@@ -233,7 +233,7 @@ header {
 /* Description styling */
 .description {
     flex: 1;
-    padding: 50px;
+    padding: 0;
 }
 
 .description h1 {
